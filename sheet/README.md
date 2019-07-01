@@ -12,8 +12,6 @@
 
 参考：http://www.xiaoyegejitar.com/15483.html
 
-节奏：
-
 ```
 节奏：
 
