@@ -9,8 +9,6 @@
 
 ### 亦是此间少年
 
-参考：http://www.xiaoyegejitar.com/15483.html
-
 ```
 节奏：
 
@@ -89,6 +87,55 @@ Em      Am
 笑看人世间
 ```
 
+#### 参考
+
+- [枯木逢春 《亦是此间少年》吉他谱C调吉他弹唱谱](http://www.xiaoyegejitar.com/15483.html)
+
 ### Sunflower Feelings
 
-sfs
+```
+节奏：
+|↓ ↓↑ ↑↓↑|
+
+[Intro]
+F G C Am x2
+
+F                           G
+__We've been dancing for so long under the stars
+C                          Am
+__I feel as the Grass will cut through my skin
+F                            G
+__All the pills we take have seem to prolong
+C                     Am
+__Our existence but I don't feel alright
+F                    G
+__I would rather be alone than have you
+C                      Am
+__Every time I speak I feel myselF fall
+F                         G
+__Do you wish to find the truth in my lies
+C                         Am
+__Sorry darlin there's no truth here, No
+
+F               G             C
+__It's just the two of us, my dear
+       Am              F
+Listen to me don't you hear
+       G
+I only fell for you
+C        Am           F
+__I only fell for you baby
+          G                 C
+Don't you let them see your fear
+        Am            F
+Promise not to shed a tear
+       G
+I only fell for you
+C        Am           F G C Am x2
+__I only fell for you baby
+```
+
+#### 参考
+
+- [EASY Ukulele Tutorial - Sunflower Feelings 🌻 ( Kuzu Mellow )](https://youtu.be/8dk7iSxRJdM)
+- [Sunflower Feelings ukulele chords by Kuzu Mellow](https://tabs.ultimate-guitar.com/tab/kuzu_mellow/sunflower_feelings_ukulele_2492940)
