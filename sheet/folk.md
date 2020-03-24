@@ -4,6 +4,8 @@
 
 - [亦是此间少年](#亦是此间少年)
 - [Sunflower Feelings](#Sunflower-Feelings)（ukulele）
+- [触电](#触电)
+- [最后我们没在一起](#最后我们没在一起)(`Bm` `B`)
 
 ## 歌曲
 
@@ -139,3 +141,16 @@ __I only fell for you baby
 
 - [EASY Ukulele Tutorial - Sunflower Feelings 🌻 ( Kuzu Mellow )](https://youtu.be/8dk7iSxRJdM)
 - [Sunflower Feelings ukulele chords by Kuzu Mellow](https://tabs.ultimate-guitar.com/tab/kuzu_mellow/sunflower_feelings_ukulele_2492940)
+
+### 触电
+
+#### 参考
+
+- [芭比《触电》简单版TXT原版吉他谱](http://www.798com.com/portal.php?mod=view&aid=29267)
+
+### 最后我们没在一起
+
+#### 参考
+
+- [最后我们没在一起吉他谱_白小白_G调指法_高清弹唱谱](http://www.jitaba.cn/pu/wangluogequ/10693.html)
+- [《最后我们没在一起》 †高清完美版 清韵吉他乐谱工作室](http://www.ccguitar.cn/wy_html/688641432.htm)
