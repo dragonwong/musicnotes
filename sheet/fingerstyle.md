@@ -5,7 +5,8 @@
 - [Costa Del Sol](#Costa-Del-Sol)（待攻克）
 - [I Smiled As The Sun Set](#I-Smiled-As-The-Sun-Set)(`人工泛音`)
 - [Sunset/Sunrise](#Sunset/Sunrise)
-- [Pain = BESTFRIEND](#Pain-=-BESTFRIEND)
+- [Pain = BESTFRIEND](#Pain--BESTFRIEND)
+- [zzz](#zzz)
 
 ## 歌曲
 
@@ -69,3 +70,40 @@ E ----------------|----------------|----------------|----------------|
 - 伴奏：[Pain = BESTFRIEND (Instrumental)](https://music.163.com/#/song?id=1388960676)
 - 演唱：[Pain = BESTFRIEND](https://music.163.com/#/song?id=545350941)
 - 教程：[XXXTENTACION - Pain = BESTFRIEND // Easy Guitar Tutorial (+TAB)](https://www.youtube.com/watch?v=mrm47-FT1xE)
+
+### zzz
+
+#### 约定
+
+自定义和弦：
+
+```
+C                    B                    E                    G
+
+E |---|---|---|---|  E |---|---|---|---|  E |---|---|---|---|  E |---|---|---|---|
+B |---|---|---|-●-|  B |---|---|---|---|  B |---|---|---|-●-|  B |---|---|---|---|
+G |---|---|-●-|---|  G |---|---|-●-|---|  G |---|---|-●-|---|  G |---|---|---|-●-|
+D |-●-|---|---|---|  D |---|---|-●-|---|  D |---|---|-●-|---|  D |---|---|---|-●-|
+A |---|-●-|---|---|  A |-●-|---|---|---|  A |---|---|---|-●-|  A |---|-●-|---|---|
+E |---|---|---|---|  E |---|-●-|---|---|  E |---|---|---|---|  E |---|---|---|-●-|
+    6   7   8   9        6   7   8   9        6   7   8   9        1   2   3   4   
+```
+
+节奏：`T121 3212`
+
+#### 歌曲
+
+```shell
+# 快
+(C×4 B×4 C×4 B×4)×3
+# 快
+(C×2 E×2 B×2 G×2)×8
+# 慢
+C×2 E×2 B×2 G×2
+# 超慢，最后一个B琶音下去
+C×2 E×2 B×2 B
+```
+
+#### 参考
+
+- [zzz - Bye Mugen](https://music.163.com/#/song?id=479980004)
