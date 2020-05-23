@@ -9,7 +9,7 @@
 - [zzz](#zzz)
 - [fireproof](#fireproof)
 - [star gazing](#star-gazing)
-- [New Horizons](./New_Horizons)
+- [New Horizons](./New_Horizons.md)
 
 ## 歌曲
 
